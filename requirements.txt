@@ -1,0 +1,7 @@
+aiogram==3.4.1
+nest_asyncio
+aiohttp
+pydub
+git+https://github.com/openai/whisper.git
+language-tool-python
+loguru
